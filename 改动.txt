@@ -1,0 +1,1 @@
+1.对于密码登录部分加上hex1加密方式  http://blog.csdn.net/monsion/article/details/7981366
